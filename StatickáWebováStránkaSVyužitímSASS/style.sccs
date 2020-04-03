@@ -1,0 +1,68 @@
+$backgroundClr: #8585857a;
+$bgColorNav:#616161;
+$shadow: #000000;
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    scroll-behavior: smooth;
+  }
+
+  body { 
+          background: $backgroundClr;
+        h1 {
+            float:none;
+            text-align: center;
+            text-decoration: underline;
+        }
+        h2 {
+            float:none;
+            text-align: center;
+            text-decoration: underline;
+        }
+        nav{
+            display: flex;
+            padding: 20px;
+            min-height: 8vh;
+            background: $bgColorNav;
+            border-bottom: 1px solid black;
+
+            ul {
+	            margin: 0px;
+	            list-style-type: none;
+                li {
+	                float: left;
+	                padding: 0px;
+	                margin: 0 3px;
+	                font-size: 15px;
+	                height: 60px;
+	                line-height: 4em;
+                    }
+                    li:hover{
+	                    box-shadow: 0px 2px 5px $shadow;
+	                    animation-name: fade;
+	                    animation-duration: 0.5s;
+	                    animation-fill-mode: forwards;
+	                    cursor: pointer;
+                        }
+
+                 }
+        }
+        article {
+                padding: 20px 200px 20px 200px;
+                text-align: center;
+                p {
+                    font-size: 2.5vh;
+                    text-align: left;
+                    }
+
+
+
+
+                }
+
+
+    
+  }
