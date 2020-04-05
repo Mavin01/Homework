@@ -1,3 +1,3 @@
-# Vypisky Github pøíkazy
-## Vıpisky jsou od Honzy Tanèiboky, protoe jsem vùbec nevìdìl jak/kde to najít. Dìkuji za pochopení a klidnì mi zhoršete známku
+# Vypisky Github pÅ™Ã­kazy
+## VÃ½pisky jsou od Honzy TanÄiboky, protoÅ¾e jsem vÅ¯bec nevÄ›dÄ›l jak/kde to najÃ­t. DÄ›kuji za pochopenÃ­ a klidnÄ› mi dejte za 4 furt lepÅ¡Ã­ neÅ¾ nic
 
