@@ -1,0 +1,3 @@
+# Webová stránka pro pøepoèet z desítkové soustavy do bináru
+## Matice odpovìdnosti: Vše jsem dìlal sám...
+
