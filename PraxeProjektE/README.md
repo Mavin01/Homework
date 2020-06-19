@@ -1,5 +1,5 @@
-# Mini browserová hra na téma klasické hry Hledání min (Minesweeper)
+# Mini browserovÃ¡ hra na tÃ©ma klasickÃ© hry HledÃ¡nÃ­ min (Minesweeper)
 ![Odkaz na web se hrou](http://vintros.wz.cz/)
 ## Screenshot webu
-![alt text]()
-## Matice odpovìdnosti: Lukáš Meidl a Jan Tanèibok HTML + CSS, Sebastien Cabbidu a Martin Vintr Javascript
+![alt text](https://github.com/Mavin01/Homework/blob/master/PraxeProjektE/mines.PNG)
+## Matice odpovÄ›dnosti: LukÃ¡Å¡ Meidl a Jan TanÄibok HTML + CSS, Sebastien Cabbidu a Martin Vintr Javascript
